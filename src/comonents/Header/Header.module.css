@@ -1,0 +1,18 @@
+a {
+    color: black !important;
+    text-transform: uppercase;
+    font-size: 0.8rem !important;
+    font-weight: bold !important;
+    
+}
+ul li {
+    display: inline;
+    padding-left: 20px;
+}
+.Header_top {
+    background-color: #11406b;
+    
+}
+.Header_top a {
+    color: #fff !important;
+}

@@ -1,0 +1,40 @@
+{
+  "student": [
+    {
+      "id": "2",
+      "name": "Narendar",
+      "age": "30",
+      "address": "vijayawada"
+    },
+    {
+      "id": "3",
+      "name": "Karthik",
+      "age": "25",
+      "address": "Kochi"
+    },
+    {
+      "id": "4",
+      "name": "Yamuna",
+      "age": "30",
+      "address": "Karimnagar"
+    },
+    {
+      "id": "5",
+      "name": "Narendar",
+      "age": "23",
+      "address": "vizag"
+    },
+    {
+      "id": "6",
+      "name": "kamal",
+      "age": "25",
+      "address": "karnool"
+    },
+    {
+      "id": "7",
+      "name": "keerthana",
+      "age": "26",
+      "address": "Hyderabad"
+    }
+  ]
+}

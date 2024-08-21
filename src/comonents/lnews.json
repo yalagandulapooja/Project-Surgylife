@@ -1,0 +1,208 @@
+{
+  "lnews": [
+    {
+      "id": "2",
+      "lnews": "Anesthesiologist"
+    },
+    {
+      "id": "3",
+      "lnews": "Neurologist."
+    },
+    {
+      "id": "4",
+      "lnews": "Dermatologists."
+    },
+    {
+      "id": "5",
+      "lnews": "Gynecologist."
+    },
+    {
+      "id": "6",
+      "lnews": "General surgery."
+    },
+    {
+      "id": "7",
+      "lnews": "ENT."
+    },
+    {
+      "id": "8",
+      "lnews": "Dermatologist."
+    },
+    {
+      "id": "1",
+      "lnews": "Cardiologist."
+    }
+  ],
+  "lnews1": [
+    {
+      "id": "1",
+      "lnews1": "2017’s theme was “Why waste water”, bringing awareness to treating and reusing wastewater....."
+    },
+    {
+      "id": "2",
+      "lnews1": "2018’s theme was “Nature for Water” which explored some of the nature-based solutions to our water challenges."
+    },
+    {
+      "id": "3",
+      "lnews1": "2019’s theme was “Leaving No One Behind”. This was an adaptation of the 2030 agenda for Sustainable Development, as sustainable development progresses, everyone must benefit."
+    },
+    {
+      "id": "4",
+      "lnews1": "2020’s theme was “Water and Climate Change”. We cannot afford to wait. Everyone has a role to play."
+    }
+  ],
+  "Nbatch": [
+    {
+      "id": "1001",
+      "tname": "Cardiologist",
+      "dname": "Sudeer",
+      "qualification": "MBBS, DNB (General Surgery), MS ( Gereral Surgery), Mch (Cardiac Surgery)",
+      "cwh": "APOLO, Uppal, Hyderabad."
+    },
+    {
+      "id": "1002",
+      "tname": "Neurologist",
+      "dname": "Chandra Shekar",
+      "qualification": "MBBS, MS, Mch Neurosurgery.",
+      "cwh": "YASHODA HOSPITAL, Kukatpally, Hyderabad."
+    },
+    {
+      "id": "1003",
+      "tname": "General Surgen",
+      "dname": "Narendar",
+      "qualification": "MBBS, MS (General Surgery), FICS, FMAS.",
+      "cwh": "KIMS, L.B.Nagar, Hyderabad."
+    },
+    {
+      "id": "1004",
+      "tname": "Gynecologist",
+      "dname": "PoojaY alagandula",
+      "qualification": "MBBS, MD (Medicine) - (Gynecologist).",
+      "cwh": "Gynic Hospital, Hyderabad."
+    },
+    {
+      "id": "1005",
+      "tname": "ENT",
+      "dname": "Dr. Parneetha",
+      "qualification": "MBBS, MS (ENT)",
+      "cwh": "YASHODA HOSPITAL"
+    },
+    {
+      "id": "1006",
+      "tname": "Dermatologist",
+      "dname": "Dr. Shalini",
+      "qualification": "MBBS, DVDL, DNB (Skin & VD) , FAGE",
+      "cwh": "Citizens Specialty Hospital, Nallagandla, Hyderabad."
+    },
+    {
+      "id": "1007",
+      "tname": "Anesthesiologist",
+      "dname": "Dr. Angana Das",
+      "qualification": "MBBS, DNB (Anaesthesiology and Critical Care)",
+      "cwh": "Citizens Specialty Hospital, Nallagandla, Hyderabad."
+    },
+    {
+      "id": "1008",
+      "tname": "General Surgen",
+      "dname": "Dr. Suresh Chandra",
+      "qualification": "MBBS, MS (General Surgery), FAIS, FICS, FMAS, FSLCS",
+      "cwh": "YASHODA HOSPITAL, Kukatpally, Hyderabad."
+    }
+  ],
+  "offer": [
+    {
+      "id": "2",
+      "offer": "2017’s theme was “Why waste water”, bringing awareness to treating and reusing wastewater....."
+    },
+    {
+      "id": "3",
+      "offer": "2018’s theme was “Nature for Water” which explored some of the nature-based solutions to our water challenges."
+    },
+    {
+      "id": "4",
+      "offer": "2019’s theme was “Leaving No One Behind”. This was an adaptation of the 2030 agenda for Sustainable Development, as sustainable development progresses, everyone must benefit.\n"
+    },
+    {
+      "id": "5",
+      "offer": "2020’s theme was “Water and Climate Change”. We cannot afford to wait. Everyone has a role to play."
+    },
+    {
+      "id": "6",
+      "offer": "2021’s theme was “Valuing Water”, highlighting the importance of conserving water and its value."
+    },
+    {
+      "id": "1",
+      "offer": "kidney transplant."
+    }
+  ],
+  "appointment": [
+    {
+      "id": "1002",
+      "yname": "chndra shekar",
+      "email": "",
+      "subject": "MBBS",
+      "phone": "YASHODA HOSPITAL",
+      "treatment": "knee pain.",
+      "message": "your done greate job",
+      "status": "Pending...."
+    },
+    {
+      "id": "1003",
+      "yname": "narendar",
+      "email": "",
+      "subject": "MBBS",
+      "phone": "KIMS",
+      "treatment": "knee pain.",
+      "message": "your done greate job",
+      "status": "Pending...."
+    },
+    {
+      "id": "1004",
+      "yname": "poojayalagandula",
+      "email": "",
+      "subject": "MBBS",
+      "phone": "ERRAGADDA",
+      "treatment": "knee pain.",
+      "message": "your done greate job",
+      "status": "Pending...."
+    },
+    {
+      "id": "1005",
+      "yname": "poojayalagandula",
+      "email": "",
+      "subject": "MBBS",
+      "phone": "YASHODA HOSPITAL",
+      "treatment": "knee pain.",
+      "message": "your done greate job",
+      "status": "Pending...."
+    },
+    {
+      "id": "1001",
+      "yname": "Sudeer",
+      "email": "poojayalagandula2.o@gamil.com",
+      "subject": "MBBS",
+      "phone": "APOLO",
+      "treatment": "knee pain.",
+      "message": "your done greate job",
+      "status": "Pending...."
+    },
+    {
+      "id": "1007",
+      "yname": "karan",
+      "email": "poojayalagandula2.o@gamil.com",
+      "subject": "hdyiwinxnb.",
+      "phone": "8327723476",
+      "treatment": "knee pain.",
+      "message": "vsgiwydmckssk"
+    },
+    {
+      "id": "1",
+      "yname": "karan",
+      "email": "poojayalagandula2.o@gamil.com",
+      "subject": "hdyiwinxnb.",
+      "phone": "8327723476",
+      "treatment": "knee surgery",
+      "message": "this is a good hospital."
+    }
+  ]
+}
